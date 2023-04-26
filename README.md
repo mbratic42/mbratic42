@@ -19,6 +19,8 @@
 
 [![mbratic's 42 stats](https://badge42.vercel.app/api/v2/clf9l4w1p000608mqs7lzm37e/stats?cursusId=21&coalitionId=251)](https://github.com/JaeSeoKim/badge42)
 
+[![mbratic's 42 stats](https://badge42.vercel.app/api/v2/clf9l4w1p000608mqs7lzm37e/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbratic42&show_icons=true&locale=en&layout=compact" alt="mbratic42" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbratic42&show_icons=true&locale=en" alt="mbratic42" /></p>
